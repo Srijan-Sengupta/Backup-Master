@@ -7,10 +7,26 @@ A friendly way to take backups for your important files
 
 **To install this, go to the [latest releases](https://github.com/Srijan-Sengupta/Backup-Master/releases) and follow the instructions**
 
+## Technology used
+
+Thanks to:
+
+1. [Golang](https://golang.org) for its cross-platform language
+2. [Fyne](https://fyne.io) for its Cross-platform and Easy GUI.
+3. [Fyne-Cross](https://github.com/fyne-io/fyne-cross) for its cross-platform building tools.
+
 ## Discussions
 
 Now we are available at [github discussions](https://github.com/Srijan-Sengupta/Backup-Master/discussions)
 we would always like to here from you, about any improvement or issues.
+
+## Contibution
+
+We welcome all kind of contibution so,
+
+1. fork the `develop` branch
+2. make changes at your fork
+3. Finally, make a pull request.
 
 ## Preview
 
