@@ -20,7 +20,7 @@ Thanks to:
 Now we are available at [github discussions](https://github.com/Srijan-Sengupta/Backup-Master/discussions)
 we would always like to here from you, about any improvement or issues.
 
-## Contibution
+## Contributions
 
 We welcome all kind of contibution so,
 
